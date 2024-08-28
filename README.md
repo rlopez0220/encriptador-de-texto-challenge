@@ -13,37 +13,59 @@ HTML: Estructura básica de la página web.
 CSS: Estilo y diseño de la interfaz de usuario.
 JavaScript: Funcionalidades de encriptación, desencriptación y copia al portapapeles.
 SweetAlert: Para mostrar alertas estilizadas.
+
+
 Instalación
+
 Para utilizar el proyecto, sigue estos pasos:
 
 1.-Clona el Repositorio:
 
+
 git clone https://github.com/rlopez0220/encriptador-de-texto-challenge.git
+
 
 2.-Navega al Directorio del Proyecto:
 
+
 cd encriptador-de-texto
+
 
 3.-Abre el Archivo index.html en tu Navegador: Simplemente abre el archivo index.html en tu navegador para ver y utilizar la aplicación.
 
+
 Uso
+
 1.-Ingresar Texto: Escribe el texto que deseas encriptar o desencriptar en el área de texto.
+
 2.-Encriptar: Haz clic en el botón "Encriptar" para convertir el texto a su versión encriptada.
+
 3.-Desencriptar: Haz clic en el botón "Desencriptar" para revertir el texto a su versión original.
+
 4.-Copiar: Haz clic en el botón "Copiar" para copiar el texto encriptado/desencriptado al portapapeles.
 
+
 Estructura de Archivos
+
 index.html: Documento HTML principal.
+
 styles.css: Archivo de estilos CSS.
+
 index.js: Archivo de JavaScript con la lógica de encriptación, desencriptación y copia.
+
 Imagenes/: Carpeta que contiene imágenes del proyecto (logo, favicon, etc.).
 
+
 Contribuciones
+
 Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, por favor sigue estos pasos:
 
 1.-Haz un Fork del Repositorio.
+
 2.-Crea una Rama para tu Contribución.
+
 3.-Realiza tus Cambios y Haz un Commit.
+
 4.-Envía un Pull Request.
 
 Capturas de la web
