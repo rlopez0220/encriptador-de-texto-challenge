@@ -1,17 +1,28 @@
 Encriptador de Texto
+
+
 Descripción
+
 El Encriptador de Texto es una aplicación web que permite a los usuarios encriptar y desencriptar texto utilizando una interfaz amigable. La aplicación está diseñada para funcionar únicamente con letras minúsculas y sin acentos. Los usuarios pueden ingresar texto, encriptarlo, desencriptarlo y copiar el texto resultante al portapapeles.
 
+
 Características
+
 Interfaz de Usuario Intuitiva: Facilita la entrada y visualización del texto.
 Encriptación y Desencriptación: Funcionalidades para encriptar y desencriptar texto.
 Copia al Portapapeles: Permite copiar el texto encriptado/desencriptado con un solo clic.
 Validación de Entrada: Solo acepta letras minúsculas sin acentos.
 Diseño Responsivo: Se adapta a diferentes tamaños de pantalla.
+
+
 Tecnologías
+
 HTML: Estructura básica de la página web.
+
 CSS: Estilo y diseño de la interfaz de usuario.
+
 JavaScript: Funcionalidades de encriptación, desencriptación y copia al portapapeles.
+
 SweetAlert: Para mostrar alertas estilizadas.
 
 
@@ -21,17 +32,14 @@ Para utilizar el proyecto, sigue estos pasos:
 
 1.-Clona el Repositorio:
 
-
 git clone https://github.com/rlopez0220/encriptador-de-texto-challenge.git
-
 
 2.-Navega al Directorio del Proyecto:
 
-
 cd encriptador-de-texto
 
-
 3.-Abre el Archivo index.html en tu Navegador: Simplemente abre el archivo index.html en tu navegador para ver y utilizar la aplicación.
+
 
 
 Uso
@@ -67,6 +75,7 @@ Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, por favor 
 3.-Realiza tus Cambios y Haz un Commit.
 
 4.-Envía un Pull Request.
+
 
 Capturas de la web
 
